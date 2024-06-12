@@ -1,0 +1,42 @@
+Cluster 0:
+intelligence
+natural
+displayed
+demonstrated
+contrast
+human
+animal
+artificial
+machine
+broader
+
+
+Cluster 1:
+learning
+machine
+method
+analysis
+analytical
+automates
+model
+building
+part
+deep
+
+
+Cluster 2:
+data
+scientific
+science
+field
+us
+interdisciplinary
+analytics
+enhance
+gain
+business
+
+
+Cluster 0: intelligence, contrast, natural, animal, human, displayed, demonstrated, artificial, machine, refers
+Cluster 1: learning, method, machine, analysis, model, automates, building, analytical, deep, part
+Cluster 2: data, interdisciplinary, us, scientific, science, field, used, gain, enhance, process
