@@ -30,7 +30,7 @@ To ensure optimal analysis, we meticulously cleaned the collected data, removing
 
 **1. User Motivations**
 
-To shed light on user motivations, we utilized a Large Language Model (LLM) to analyze the top 60 posts from July. This analysis yielded the following insights:
+To shed light on user motivations, we analyzed the top 60 posts from July. This analysis yielded the following insights:
 
 - **Frustration** emerged as the most prevalent emotion behind Reddit posts (60 posts).
 - **Help Seeking** followed closely (10 posts).
